@@ -1,2 +1,2 @@
 # linkcheck
-Broken link checker written in Python using Scrapy
+Python/Scrapy script to check for broken links
